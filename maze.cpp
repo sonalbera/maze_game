@@ -81,7 +81,7 @@ void drawstring(int x, int y, char *string,void *font)
 	glVertex2f(50,98);
 	glEnd();
 	glColor3f(1,0,0);
-	output(40,90,"SONAL BERA  and  TEENA SINGH");
+	output(40,90,"SONAL BERA ");
 	
 	output(40,80,"");
 	glColor3f(1,0,1);
